@@ -14,7 +14,7 @@ layout: default_2020
 
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
-<a href="https://www.sigsac.org/ccs/CCS2020/"> <strong> ACM Conference on Computer and Communications Security 2020 </strong> </a> </strong> </h4>
+<a href="https://www.sigsac.org/ccs/CCS2020/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2020 </strong> </a> </strong> </h4>
 
 
 ## Scope
