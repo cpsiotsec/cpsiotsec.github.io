@@ -46,7 +46,7 @@ We seek submissions from multiple interdisciplinary backgrounds tackling securit
 Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. There will be a best paper award.
 
 ## Submission guidelines
-Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***:
+Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
 
 #### Long papers include:
 1. Original research on a CPS/IoT security and privacy topic
