@@ -23,7 +23,7 @@ The Joint Workshop on CPS&IoT Security and Privacy invites academia, industry, a
 *	Demos (hands-on or videos) of testbeds/experiences of CPS and IoT security and privacy research
 
 
-We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS&IoT, including but not limited to:
+We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS and IoT, including but not limited to:
 *	Mathematical foundations for secure CPS/IoT
 *	Control-theoretic approaches
 *	High assurance security architectures
