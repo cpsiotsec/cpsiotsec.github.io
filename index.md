@@ -6,6 +6,7 @@ layout: default_2020
 
 ![](https://c1.staticflickr.com/9/8475/8414286285_5379dc5b3f_b.jpg)
 
+
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
 	font-weight: normal;font-size: 30px;">The Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
