@@ -18,9 +18,9 @@ layout: default_2020
 
 ## Scope
 The Joint Workshop on CPS&IoT Security and Privacy invites academia, industry, and governmental entities to submit:
-*	Original research papers on the security and privacy of CPS&IoT
-*	Systematization of Knowledge (SoK) papers on the security and privacy of CPS&IoT
-*	Demos (hands-on or videos) of testbeds/experiences of CPS&IoT security and privacy research
+*	Original research papers on the security and privacy of CPS and IoT
+*	Systematization of Knowledge (SoK) papers on the security and privacy of CPS and IoT
+*	Demos (hands-on or videos) of testbeds/experiences of CPS and IoT security and privacy research
 
 
 We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS&IoT, including but not limited to:
@@ -45,7 +45,7 @@ We seek submissions from multiple interdisciplinary backgrounds tackling securit
 
 Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. There will be a best paper award.
 
-## Submission guidelines
+## Submission Guidelines
 Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
 
 #### Long papers include:
