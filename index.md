@@ -16,6 +16,10 @@ layout: default_2020
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
 <a href="https://www.sigsac.org/ccs/CCS2020/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2020 </strong> </a> </strong> </h4>
 
+## Background
+
+The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of the merger of the Workshop on Cyber-Physical Systems Security and Privacy (CPS-SPC) and Workshop on the Internet of Things Security and Privacy (IoTS&P) previously organized annually in conjunction with ACM Conference on Computer and Communications Security.
+
 
 ## Scope
 The Joint Workshop on CPS&IoT Security and Privacy invites academia, industry, and governmental entities to submit:
@@ -68,8 +72,8 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 
 
 ## Important Dates
-*	Submission Deadline: **July 23, 2019 (23:59 Anywhere on Earth time)**
-*	Notification of Acceptance/Rejection: **September 1, 2019**
+*	Submission Deadline: **July 23, 2020 (23:59 Anywhere on Earth time)**
+*	Notification of Acceptance/Rejection: **September 1, 2020**
 *	Camera Ready Papers Due: (hard deadline): **September 13, 2020 (same as CCS)**
 
 ## Program Chairs
