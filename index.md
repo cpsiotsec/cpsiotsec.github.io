@@ -124,4 +124,4 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 *	Yuqing Zhang, University of CAS
 
 ## Web Chair
-Monowar Hasan, University of Illinois at Urbana-Champaign
+*   Monowar Hasan, University of Illinois at Urbana-Champaign
