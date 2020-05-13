@@ -83,6 +83,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 ## Technical Program Committee
 *	Cristina Alcaraz, University of Malaga, Spain
 *	Magnus Almgren, Chalmers University, Sweden
+*   Gedare Bloom, University of Colorado, USA
 *	Rakesh Bobba, Oregon State University, USA
 *	Ferdinand Brasser, TU Darmstadt, Germany
 *	Chunjie Cao, Hainan University, China
@@ -103,6 +104,9 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 *	Yanxiao Liu, XI'AN University of Technology, China
 *	Xiaofeng Lu, Beijing University of Posts and Telecommunications, China
 *	Emil Lupu, Imperial College, UK
+*   Sibin Mohan, University of Illinois at Urbana-Champaign
+*   Habeeb Olufowobi, Howard University, USA
+*   Miroslav Pajic, Duke University, USA
 *	Awais Rashid, University of Bristol, UK
 *	Limin Sun, Institute of Information Engineering of CAS, China
 *	Gang Tan, Pennsylvania State University, USA
@@ -115,6 +119,11 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 *	Guanghua Zhang, Hebei University of Science and Technology, China
 *	Jianying Zhou, Singapore University of Technology and Design, Singapore
 *	Saman Zonouz, Rutgers University, USA
+
+
+
+
+
 
 ## Steering Committee
 *	Rakesh Bobba, Oregon State University
