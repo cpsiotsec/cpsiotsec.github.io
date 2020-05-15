@@ -90,7 +90,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 *	Alvaro Cardenas, UC Santa Cruz, USA
 *	Benhui Chen, Dali University, China
 *	Kai Chen, Institute of Information Engineering of CAS, China
-*	Yongkai Fan, China University of Petroleum, China
+*	Yongkai Fan, Communication University of China, China
 *	Jingyu Feng, Xi’an University of Posts and Telecommunications, China
 *	Anmin Fu, Nanjing University of Science and Technology, China
 *	Ben Green, Lancaster University, UK
