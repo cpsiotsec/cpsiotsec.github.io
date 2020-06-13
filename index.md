@@ -73,8 +73,8 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 
 ## Important Dates
 *	Submission Deadline: **July 23, 2020 (23:59 Anywhere on Earth time)**
-*	Notification of Acceptance/Rejection: **September 1, 2020**
-*	Camera Ready Papers Due: (hard deadline): **September 13, 2020 (same as CCS)**
+*	Notification of Acceptance/Rejection: **August 24, 2020**
+*	Camera Ready Papers Due: (hard deadline): **September 2, 2020 (same as CCS)**
 
 ## Program Chairs
 *	Michail Maniatakos, New York University Abu Dhabi, UAE
