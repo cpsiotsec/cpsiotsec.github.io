@@ -48,8 +48,7 @@ We seek submissions from multiple interdisciplinary backgrounds tackling securit
 *	CPS/IoT firmware analysis
 *	Hardware-assisted CPS/IoT security
 
-Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy.
-**There will be a best paper award.**
+Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. **There will be a best paper award.** The best paper will be invited for extended paper submission to the Special Issue on *Cyber-Physical System Security @ Cybersecurity (Springer)*, with a **September 30th** deadline.
 
 ## Submission Guidelines
 Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
