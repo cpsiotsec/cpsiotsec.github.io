@@ -61,7 +61,9 @@ Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)**
 1. Original preliminary research on a CPS/IoT security and privacy topic
 2. Demos/interesting findings/insights on CPS/IoT security and privacy
 
-Submitted papers can be up to 12 or 6 pages including appendices and references (except for SoK papers where references are excluded). Submissions must use the format defined by CCS [(https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html). Only PDF files will be accepted. Accepted papers will be published by the ACM Press and/or the ACM Digital Library. Submissions must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
+
+Submitted papers can be up to 12 or 6 pages including appendices and references (except for SoK papers where references are excluded). Submissions must use the format defined by CCS [(https://www.sigsac.org/ccs/CCS2020/call-for-papers.html)](https://www.sigsac.org/ccs/CCS2020/call-for-papers.html). Only PDF files will be accepted. **There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not.** Accepted papers will be published by the ACM Press and/or the ACM Digital Library. Submissions must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
+
 
 <!--
 **Please submit your work at** **[https://easychair.org/conferences/?conf=cpsiotsec2020](https://easychair.org/conferences/?conf=cpsiotsec2020).** -->
