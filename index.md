@@ -52,7 +52,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **14:00-15:30**
 <br>
 **Session 2: Real Case Studies and Demos**
-- **[25 min]**	*A (in)Secure-by-Design IoT protocol: the ESP Touch protocol and a case study analysis from the real market*
+- **[25 min]**	*A (in)Secure-by-Design IoT Protocol: The ESP Touch Protocol and a Case Study Analysis from the Real Market*
 - **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
 - **[15 min]**	*Privacy in the Mobile World: An Analysis of Bluetooth Contact Traces*
 - **[10 min]**	*DEMO: Gone in 20 Seconds - Overview of a Password Vulnerability in Siemens HMIs*
