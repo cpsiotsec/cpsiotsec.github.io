@@ -50,6 +50,59 @@ We seek submissions from multiple interdisciplinary backgrounds tackling securit
 
 Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. **There will be a best paper award.** The best paper will be invited for extended paper submission to the Special Issue on *Cyber-Physical System Security @ Cybersecurity (Springer)*, with a **September 30th** deadline.
 
+## Program
+
+***All times are U.S. Eastern time.***
+
+**10:00-10:15**
+<br>
+*Opening Session*
+
+**10:15-11:00**
+<br>
+**Keynote:** ***Industrial Perspective on Academic CPS&IoT Research, by Marina Krotofil***
+
+**11:00-11:30**
+<br>
+**Breakout Session**
+
+**11:30-13:00**
+<br>
+**Session 1: CPS&IoT Security**
+
+- **[25 min]**	*Towards a High-Fidelity Network Emulation of IEC 104 SCADA Systems*
+- **[25 min]**	*Hazard driven threat modelling for Cyber Physical Systems*
+- **[15 min]**	*A Statistical Analysis Framework for ICS Process Datasets*
+- **[15 min]**	*Towards Robust Power Grid Attack Protection using LightGBM with Concept Drift Detection and Retraining*
+
+**13:00-14:00**
+**Lunch break - Breakout session**
+
+**14:00-15:30**
+<br>
+**Session 2: Real Case Studies and Demos**
+- **[25 min]**	*A (in)Secure-by-Design IoT protocol: the ESP Touch protocol and a case study analysis from the real market*
+- **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
+- **[15 min]**	*Privacy in the Mobile World: An Analysis of Bluetooth Contact Traces*
+- **[10 min]**	*DEMO: Gone in 20 Seconds - Overview of a Password Vulnerability in Siemens HMIs*
+- **[10 min]**	*DEMO: Trustworthy Cyberphysical Energy Systems: Time-Delay Attacks in a Real-Time Co-Simulation Environment*
+
+**15:30-16:00**	
+<br>
+**Breakout Session**
+
+**16:00-17:00**
+<br>	
+**Session 3: CPS&IoT Robustness**
+
+- **[25 min]**	*MAC-Layer Spoofing Detection and Prevention in IoT Systems: Randomized Moving Target Approach*
+- **[15 min]**	*Skip to Secure: Securing Cyber-physical Control Loops with Intentionally Skipped Executions*
+- **[15 min]**	*Voice Command Fingerprinting with Locality Sensitive Hashes*
+
+**17:00-17:30**
+<br>	
+**Closing Session - Best paper award announcement**
+
 ## Submission Guidelines
 Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
 
@@ -75,8 +128,8 @@ Submitted papers can be up to 12 or 6 pages including appendices and references 
 ## Important Dates
 
 
-* <span style="color:red">**<u>NEW</u>**</span> Title/Abstract Submission Deadline: **July 23, 2020** (23:59 Anywhere on Earth time - HARD deadline)
-* <span style="color:red">**<u>NEW</u>**</span> PDF Update Deadline: **July 27, 2020** (23:59 Anywhere on Earth time - HARD deadline)
+* ~~<span style="color:red">**<u>NEW</u>**</span>~~ Title/Abstract Submission Deadline: **July 23, 2020** (23:59 Anywhere on Earth time - HARD deadline)
+* ~~<span style="color:red">**<u>NEW</u>**</span>~~ PDF Update Deadline: **July 27, 2020** (23:59 Anywhere on Earth time - HARD deadline)
 * Notification of Acceptance/Rejection: **August 24, 2020**
 * Camera Ready Papers Due: (hard deadline): **September 2, 2020** (same as CCS)
 
