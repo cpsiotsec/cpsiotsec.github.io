@@ -21,35 +21,6 @@ layout: default_2020
 The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of the merger of the Workshop on Cyber-Physical Systems Security and Privacy (CPS-SPC) and Workshop on the Internet of Things Security and Privacy (IoTS&P) previously organized annually in conjunction with ACM Conference on Computer and Communications Security.
 
 
-## Scope
-The Joint Workshop on CPS&IoT Security and Privacy invites academia, industry, and governmental entities to submit:
-*	Original research papers on the security and privacy of CPS and IoT
-*	Systematization of Knowledge (SoK) papers on the security and privacy of CPS and IoT
-*	Demos (hands-on or videos) of testbeds/experiences of CPS and IoT security and privacy research
-
-
-We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS and IoT, including but not limited to:
-*	Mathematical foundations for secure CPS/IoT
-*	Control-theoretic approaches
-*	High assurance security architectures
-*	Security and resilience metrics
-*	Metrics and risk assessment approaches
-*	Identity and access management
-*	Privacy and trust
-*	Network security
-*	Game theory applied to CPS/IoT security
-*	Human factors, humans in the loop, and usable security
-*	Understanding dependencies among security, reliability and safety in CPS/IoT
-*	Economics of security and privacy
-*	Intrusion and anomaly detection
-*	Model-based security systems engineering
-*	Sensor and actuator attacks
-*	CPS/IoT malware analysis
-*	CPS/IoT firmware analysis
-*	Hardware-assisted CPS/IoT security
-
-Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. **There will be a best paper award.** The best paper will be invited for extended paper submission to the Special Issue on *Cyber-Physical System Security @ Cybersecurity (Springer)*, with a **September 30th** deadline.
-
 ## Program
 
 ***All times are U.S. Eastern time.***
@@ -102,6 +73,37 @@ Also, of interest will be papers that can point the research community to new re
 **17:00-17:30**
 <br>
 **Closing Session - Best paper award announcement**
+
+
+## Scope
+The Joint Workshop on CPS&IoT Security and Privacy invites academia, industry, and governmental entities to submit:
+*	Original research papers on the security and privacy of CPS and IoT
+*	Systematization of Knowledge (SoK) papers on the security and privacy of CPS and IoT
+*	Demos (hands-on or videos) of testbeds/experiences of CPS and IoT security and privacy research
+
+
+We seek submissions from multiple interdisciplinary backgrounds tackling security and privacy issues in CPS and IoT, including but not limited to:
+*	Mathematical foundations for secure CPS/IoT
+*	Control-theoretic approaches
+*	High assurance security architectures
+*	Security and resilience metrics
+*	Metrics and risk assessment approaches
+*	Identity and access management
+*	Privacy and trust
+*	Network security
+*	Game theory applied to CPS/IoT security
+*	Human factors, humans in the loop, and usable security
+*	Understanding dependencies among security, reliability and safety in CPS/IoT
+*	Economics of security and privacy
+*	Intrusion and anomaly detection
+*	Model-based security systems engineering
+*	Sensor and actuator attacks
+*	CPS/IoT malware analysis
+*	CPS/IoT firmware analysis
+*	Hardware-assisted CPS/IoT security
+
+Also, of interest will be papers that can point the research community to new research directions, and those that can set research agendas and priorities in CPS/IoT security and privacy. **There will be a best paper award.** The best paper will be invited for extended paper submission to the Special Issue on *Cyber-Physical System Security @ Cybersecurity (Springer)*, with a **September 30th** deadline.
+
 
 ## Submission Guidelines
 Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
