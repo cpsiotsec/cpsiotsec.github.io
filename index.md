@@ -56,7 +56,7 @@ Also, of interest will be papers that can point the research community to new re
 
 **10:00-10:15**
 <br>
-*Opening Session*
+**Opening Session**
 
 **10:15-11:00**
 <br>
@@ -87,12 +87,12 @@ Also, of interest will be papers that can point the research community to new re
 - **[10 min]**	*DEMO: Gone in 20 Seconds - Overview of a Password Vulnerability in Siemens HMIs*
 - **[10 min]**	*DEMO: Trustworthy Cyberphysical Energy Systems: Time-Delay Attacks in a Real-Time Co-Simulation Environment*
 
-**15:30-16:00**	
+**15:30-16:00**
 <br>
 **Breakout Session**
 
 **16:00-17:00**
-<br>	
+<br>
 **Session 3: CPS&IoT Robustness**
 
 - **[25 min]**	*MAC-Layer Spoofing Detection and Prevention in IoT Systems: Randomized Moving Target Approach*
@@ -100,7 +100,7 @@ Also, of interest will be papers that can point the research community to new re
 - **[15 min]**	*Voice Command Fingerprinting with Locality Sensitive Hashes*
 
 **17:00-17:30**
-<br>	
+<br>
 **Closing Session - Best paper award announcement**
 
 ## Submission Guidelines
