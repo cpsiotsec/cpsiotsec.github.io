@@ -40,6 +40,8 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **11:30-13:00**
 <br>
 **Session 1: CPS&IoT Security**
+<br>
+**Session Chair:** ***Charalambos Konstantinou***
 
 - **[25 min]**	*Towards a High-Fidelity Network Emulation of IEC 104 SCADA Systems*
 - **[25 min]**	*Hazard driven threat modelling for Cyber Physical Systems*
@@ -52,6 +54,9 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **14:00-15:30**
 <br>
 **Session 2: Real Case Studies and Demos**
+<br>
+**Session Chair:** ***Sibin Mohan***
+
 - **[25 min]**	*A (in)Secure-by-Design IoT Protocol: The ESP Touch Protocol and a Case Study Analysis from the Real Market*
 - **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
 - **[15 min]**	*Privacy in the Mobile World: An Analysis of Bluetooth Contact Traces*
@@ -65,6 +70,9 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **16:00-17:00**
 <br>
 **Session 3: CPS&IoT Robustness**
+<br>
+**Session Chair:** ***Avishai Wool***
+
 
 - **[25 min]**	*MAC-Layer Spoofing Detection and Prevention in IoT Systems: Randomized Moving Target Approach*
 - **[15 min]**	*Skip to Secure: Securing Cyber-physical Control Loops with Intentionally Skipped Executions*
