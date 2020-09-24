@@ -55,7 +55,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 <br>
 **Session 2: Real Case Studies and Demos**
 <br>
-**Session Chair:** ***Sibin Mohan***
+**Session Chair:** ***Avishai Wool***
 
 - **[25 min]**	*A (in)Secure-by-Design IoT Protocol: The ESP Touch Protocol and a Case Study Analysis from the Real Market*
 - **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
@@ -71,7 +71,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 <br>
 **Session 3: CPS&IoT Robustness**
 <br>
-**Session Chair:** ***Avishai Wool***
+**Session Chair:** ***Sibin Mohan***
 
 
 - **[25 min]**	*MAC-Layer Spoofing Detection and Prevention in IoT Systems: Randomized Moving Target Approach*
