@@ -31,7 +31,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 **10:15-11:00**
 <br>
-**Keynote:** ***Industrial Perspective on Academic CPS&IoT Research, by Marina Krotofil***
+**Keynote:** ***Optimize Your Efforts: How to Tailor PhD Research to Real-World Needs – Industrial Perspective on Academic CPS/IoT Research, by Marina Krotofil***
 
 **11:00-11:30**
 <br>
