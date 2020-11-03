@@ -24,6 +24,8 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 ## Program
 
 ***All times are U.S. Eastern time.***
+<br>
+***Presenter's names are marked by asterisks.***
 
 **10:00-10:15**
 <br>
@@ -44,9 +46,21 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **Session Chair:** ***Charalambos Konstantinou***
 
 - **[25 min]**	*Towards a High-Fidelity Network Emulation of IEC 104 SCADA Systems*
+                <br>
+                Luis Salazar*, Xi Qin, Neil Ortiz and Alvaro Cardenas
+
 - **[25 min]**	*Hazard driven threat modelling for Cyber Physical Systems*
+                <br>
+                Luca Maria Castiglione* and Emil C. Lupu
+
 - **[15 min]**	*A Statistical Analysis Framework for ICS Process Datasets*
+                <br>
+                Federico Turrin*, Alessandro Erba, Nils Ole Tippenhauer and Mauro Conti
+
+
 - **[15 min]**	*Towards Robust Power Grid Attack Protection using LightGBM with Concept Drift Detection and Retraining*
+                <br>
+                Anand Agrawal*, Marios Sazos, Michail Maniatakos and Ahmed Al Durra
 
 **13:00-14:00**
 **Lunch break - Breakout session**
@@ -58,10 +72,24 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 **Session Chair:** ***Avishai Wool***
 
 - **[25 min]**	*A (in)Secure-by-Design IoT Protocol: The ESP Touch Protocol and a Case Study Analysis from the Real Market*
+                <br>
+                Giovanni Salzillo and Massimiliano Rak
+
 - **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
+                <br>
+                Richard J. Thomas*, Joe Gardiner, Tom Chothia, Awais Rashid, Emmanouil Samanis and Joshua Perrett
+
 - **[15 min]**	*Privacy in the Mobile World: An Analysis of Bluetooth Contact Traces*
+                <br>
+                Heng Zhang*, Amiya K. Maji and Saurabh Bagchi
+
 - **[10 min]**	*DEMO: Gone in 20 Seconds - Overview of a Password Vulnerability in Siemens HMIs*
+                <br>
+                Joseph Gardiner* and Awais Rashid
+
 - **[10 min]**	*DEMO: Trustworthy Cyberphysical Energy Systems: Time-Delay Attacks in a Real-Time Co-Simulation Environment*
+                <br>
+                Juan Ospina*, Ioannis Zografopoulos, XiaoRui Liu and Charalambos Konstantinou
 
 **15:30-16:00**
 <br>
@@ -75,8 +103,16 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 
 - **[25 min]**	*MAC-Layer Spoofing Detection and Prevention in IoT Systems: Randomized Moving Target Approach*
+                <br>
+                Pooria Madani*, Natalija Vlajic and Shadi Sadeghpour
+
 - **[15 min]**	*Skip to Secure: Securing Cyber-physical Control Loops with Intentionally Skipped Executions*
+                <br>
+                Sunandan Adhikary*, Ipsita Koley, Saurav Kr. Ghosh, Sumana Ghosh, Soumyajit Dey and Debdeep Mukhopadhyay
+
 - **[15 min]**	*Voice Command Fingerprinting with Locality Sensitive Hashes*
+                <br>
+                Batyr Charyyev* and Mehmet Gunes
 
 **17:00-17:30**
 <br>
