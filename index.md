@@ -73,7 +73,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 - **[25 min]**	*A (in)Secure-by-Design IoT Protocol: The ESP Touch Protocol and a Case Study Analysis from the Real Market*
                 <br>
-                Giovanni Salzillo and Massimiliano Rak
+                Giovanni Salzillo* and Massimiliano Rak
 
 - **[25 min]**	*Catch Me If You Can: An In-Depth Study of CVE Discovery Time and Inconsistencies for Managing Risks in Critical Infrastructures*
                 <br>
