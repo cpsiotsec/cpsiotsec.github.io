@@ -24,7 +24,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 ## Program
 
-<span style="color:red">**<u>NEW!</u>**</span> **Table of contents available!** <a href="toc.html" target="_blank"> <strong> [Link] </a> </strong> 
+<span style="color:red">**<u>NEW!</u>**</span> **Table of contents available!** <a href="toc.html" target="_blank"> <strong> [Link] </strong> </a>
 
 ***All times are U.S. Eastern time.***
 <br>
