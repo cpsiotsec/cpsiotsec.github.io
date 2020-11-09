@@ -24,6 +24,9 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 ## Program
 
+
+<span style="color:red">**<u>NEW [Nov. 9, 2020]!</u>**</span> **Zoom link available! Join the workshop here:** <a href="https://nyu.zoom.us/j/93222935467?pwd=SnJxcjhTSFpzTllvTlBVVzFYRlJidz09" target="_blank"> <strong> https://nyu.zoom.us/j/93222935467?pwd=SnJxcjhTSFpzTllvTlBVVzFYRlJidz09 </strong> </a>
+
 <span style="color:red">**<u>NEW!</u>**</span> **Table of contents available!** <a href="toc.html" target="_blank"> <strong> [Link] </strong> </a>
 
 ***All times are U.S. Eastern time.***
