@@ -170,4 +170,4 @@ Authors are not required to upload CCS reviews; verification of CCS submission s
 
 ## Past Workshop
 
-* <a href="/pastworkshops/2020/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
+* <a href="/pastworkshops/2020/" target="_blank"> <strong> CPSIoTSec 2020 </strong> </a>
