@@ -11,7 +11,7 @@ layout: default_2021
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">The Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
+	font-weight: normal;font-size: 30px;">The 2nd Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
 
 
 
@@ -31,7 +31,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 
 ## Scope
-The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2021) invites academia, industry,
+The 2nd Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2021) invites academia, industry,
 and governmental entities to submit:
 
 * Original research papers on the security and privacy of CPS&IoT
