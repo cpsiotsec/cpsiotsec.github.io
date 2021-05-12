@@ -125,7 +125,7 @@ Authors are not required to upload CCS reviews; verification of CCS submission s
 * Gerhard Hancke, City University of Hong Kong
 * Monowar Hasan, Wichita State University, USA
 * Sokratis Katsikas, Open University of Cyprus, Cyprus
-* Charalambos Konstantinou, Florida State University, USA
+* Charalambos Konstantinou, KAUST, Saudi Arabia
 * Marina Krotofil, Honeywell Industrial Cyber Security Lab, USA
 * Peng Liu, Pennsylvania State University, USA
 * Xiaofeng Lu, Beijing University of Posts and Telecommunications, China
