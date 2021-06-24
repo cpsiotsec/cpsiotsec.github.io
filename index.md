@@ -23,6 +23,7 @@ layout: default_2021
 The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of the merger of the Workshop on Cyber-Physical Systems Security and Privacy (CPS-SPC) and Workshop on the Internet of Things Security and Privacy (IoTS&P) previously organized annually in conjunction with ACM Conference on Computer and Communications Security.
 
 
+* ~~<span style="color:red">**<u>NEW</u>**</span>~~ **DEADLINE EXTENDED FOR 2 WEEKS (FIRM DEADLINE: JULY 13th, 2021)** 
 
 <!-- ## Program -->
 
@@ -102,7 +103,7 @@ Authors are not required to upload CCS reviews; verification of CCS submission s
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: **June 25, 2021 (23:59 Anywhere on Earth)**
+- Submission deadline: <s> June 25, 2021 (23:59 Anywhere on Earth) </s> **July 13, 2021 (23:59 Anywhere on Earth) [FIRM DEADLINE]**.
 - Submission deadline applicable only to papers rejected from ACM CCS 2021: **July 30, 2021 (23:59 Anywhere on Earth)**
 - Notification of acceptance/rejection (tentative): **August 13, 2021**
 - Deadline for submission of camera-ready papers (hard deadline): **September 6, 2021**
