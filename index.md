@@ -103,7 +103,7 @@ Authors are not required to upload CCS reviews; verification of CCS submission s
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: <s>June 25, 2021 (23:59 Anywhere on Earth)</s> **July 13, 2021 (23:59 Anywhere on Earth) [FIRM DEADLINE]**.
+- Submission deadline: <s>June 25, 2021 (23:59 Anywhere on Earth)</s> **July 13, 2021 (23:59 Anywhere on Earth) [FIRM DEADLINE]**
 - Submission deadline applicable only to papers rejected from ACM CCS 2021: **July 30, 2021 (23:59 Anywhere on Earth)**
 - Notification of acceptance/rejection (tentative): **August 13, 2021**
 - Deadline for submission of camera-ready papers (hard deadline): **September 6, 2021**
