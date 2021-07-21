@@ -22,8 +22,13 @@ layout: default_2021
 
 The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of the merger of the Workshop on Cyber-Physical Systems Security and Privacy (CPS-SPC) and Workshop on the Internet of Things Security and Privacy (IoTS&P) previously organized annually in conjunction with ACM Conference on Computer and Communications Security.
 
+#### Announcements
 
-<span style="color:red">**<u>NEW</u>**</span> **DEADLINE EXTENDED FOR 2 WEEKS (FIRM DEADLINE: JULY 13th, 2021)**
+* <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE**
+<br> **APPLICABLE ONLY TO PAPERS REJECTED FROM
+ACM CCS 2021
+<br> (FIRM DEADLINE: JULY 30th, 2021)**
+* ~~**DEADLINE EXTENDED FOR 2 WEEKS (FIRM DEADLINE: JULY 13th, 2021)**~~
 
 <!-- ## Program -->
 
