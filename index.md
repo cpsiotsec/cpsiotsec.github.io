@@ -24,10 +24,12 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 #### Announcements
 
-* <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE**
-<br> **APPLICABLE ONLY TO PAPERS REJECTED FROM
-ACM CCS 2021
-<br> (FIRM DEADLINE: JULY 30th, 2021)**
+* <span style="color:red">**<u>NEW (Aug. 18)</u>**</span> **ACCEPTANCE/REJECTION NOTIFICATIONS WILL BE GIVEN ON AUGUST 20th.**
+<!-- * <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE** -->
+* **~~SECOND SUBMISSION DEADLINE~~**
+<br> ~~**APPLICABLE ONLY TO PAPERS REJECTED FROM**~~
+**~~ACM CCS 2021~~**
+<br> **~~(FIRM DEADLINE: JULY 30th, 2021)~~**
 * ~~**DEADLINE EXTENDED FOR 2 WEEKS (FIRM DEADLINE: JULY 13th, 2021)**~~
 
 <!-- ## Program -->
