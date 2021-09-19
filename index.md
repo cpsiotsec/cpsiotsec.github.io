@@ -24,7 +24,8 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 #### Announcements
 
-* <span style="color:red">**<u>NEW (Aug. 18)</u>**</span> **ACCEPTANCE/REJECTION NOTIFICATIONS WILL BE GIVEN ON AUGUST 20th.**
+* <span style="color:red">**<u>NEW (Sep. 19)</u>**</span> **WORKSHOP PRGORAM AVAILABLE.**
+* ~~**ACCEPTANCE/REJECTION NOTIFICATIONS WILL BE GIVEN ON AUGUST 20th.**~~
 <!-- * <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE** -->
 * **~~SECOND SUBMISSION DEADLINE~~**
 <br> ~~**APPLICABLE ONLY TO PAPERS REJECTED FROM**~~
@@ -35,8 +36,139 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 <!-- ## Program -->
 
 
+## Program
 
+**_Note: The workshop will be held in KST (Korean Time)._**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uqo3{background-color:#efefef;text-align:center;vertical-align:top}
+.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0hty{background-color:#000000;border-color:inherit;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4fhe{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:bottom}
+.tg .tg-fckf{background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0hty">Time (Seol)</th>
+    <th class="tg-0hty">Time (NY)</th>
+    <th class="tg-0hty">Time (London)</th>
+    <th class="tg-0hty">Time (Brussel)</th>
+    <th class="tg-0hty">Topic</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fckf">7:00 AM</td>
+    <td class="tg-fckf">5:00 PM</td>
+    <td class="tg-fckf">10:00 PM</td>
+    <td class="tg-fckf">11:00 PM</td>
+    <td class="tg-y698">Opening</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">7:15 AM</td>
+    <td class="tg-fckf">5:15 PM</td>
+    <td class="tg-fckf">10:15 PM</td>
+    <td class="tg-fckf">11:15 PM</td>
+    <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay </span></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">MORNING SESSION #1</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">8:15 AM</td>
+    <td class="tg-fckf">6:15 PM</td>
+    <td class="tg-fckf">11:15 PM</td>
+    <td class="tg-fckf">12:15 AM</td>
+    <td class="tg-4fhe">"vBump: Securing Ethernet-based Industrial Control System Networks with VLAN-based Traffic"<br>Nils Ole Tippenhauer, Binbin Chen, Daisuke Mashima and David M. Nicol.</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">8:45 AM</td>
+    <td class="tg-fckf">6:45 PM</td>
+    <td class="tg-fckf">11:45 PM</td>
+    <td class="tg-fckf">12:45 AM</td>
+    <td class="tg-4fhe">"Shared Reality: Detecting Stealthy Attacks Against Autonomous Vehicles"<br>Raul Quinonez, Sleiman Safaoui, Tyler Summers, Bhavani Thuraisingham and Alvaro A. Cardenas</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">9:15 AM</td>
+    <td class="tg-fckf">7:15 PM</td>
+    <td class="tg-fckf">12:15 AM</td>
+    <td class="tg-fckf">1:15 AM</td>
+    <td class="tg-y698"><span style="font-weight:bold">SHORT BREAK</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">9:30 AM</td>
+    <td class="tg-fckf">7:30 PM</td>
+    <td class="tg-fckf">12:30 AM</td>
+    <td class="tg-fckf">1:30 AM</td>
+    <td class="tg-y698"><span style="font-weight:bold">Keynote #2</span><br><span style="font-weight:bold">Raymond</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uqo3" colspan="5"><span style="font-weight:bold">MORNING SESSION #2</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">10:30 AM</td>
+    <td class="tg-fckf">8:30 PM</td>
+    <td class="tg-fckf">1:30 AM</td>
+    <td class="tg-fckf">2:30 AM</td>
+    <td class="tg-4fhe">"Balancing Security and Usability of Zero-interaction Pairing and Authentication for the Internet-of-Things"<br>Kyuin Lee and Younghyun Kim</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">10:50 AM</td>
+    <td class="tg-fckf">8:50 PM</td>
+    <td class="tg-fckf">1:50 AM</td>
+    <td class="tg-fckf">2:50 AM</td>
+    <td class="tg-4fhe">"Attack Rules: An Adversarial Approach to Generate Attacks for Industrial Control Systems using Machine Learning"<br>Muhammad Azmi Umer, Chuadhry Mujeeb Ahmed, Muhammad Taha Jilani and Aditya Mathur.</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">11:10 AM</td>
+    <td class="tg-fckf">9:10 PM</td>
+    <td class="tg-fckf">2:10 AM</td>
+    <td class="tg-fckf">3:10 AM</td>
+    <td class="tg-4fhe">"PEDRO: Secure Pedestrian Mobility Verification in V2P Communication using COTS Mobile Devices"<br>Yucheng Yang, Kyuin Lee, Younghyun Kim and Kassem Fawaz.</td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">LONG BREAK</span></td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">EVENING SESSION</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">5:00 PM</td>
+    <td class="tg-fckf">3:00 AM</td>
+    <td class="tg-fckf">8:00 AM</td>
+    <td class="tg-fckf">9:00 AM</td>
+    <td class="tg-4fhe">"CatchAll: A Robust Multivariate Intrusion Detection System for Cyber-Physical Systems using Low Rank Matrix"<br>Aneet Kumar Dutta, Bhaskar Mukhoty and Sandeep Kumar Shukla.</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">5:20 PM</td>
+    <td class="tg-fckf">3:20 AM</td>
+    <td class="tg-fckf">8:20 AM</td>
+    <td class="tg-fckf">9:20 AM</td>
+    <td class="tg-4fhe">"TooLate: Cryptographic Data Access Control for Offline Devices through Efficient Key Rotation"<br>Lorenzo Bracciale, Pierpaolo Loreti, Emanuele Raso and Giuseppe Bianchi.</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">5:40 PM</td>
+    <td class="tg-fckf">3:40 AM</td>
+    <td class="tg-fckf">8:40 AM</td>
+    <td class="tg-fckf">9:40 AM</td>
+    <td class="tg-4fhe">"Controller-in-the-Middle: Attacks on Software Defined Networks in Industrial Control Systems"<br>Joseph Gardiner, Adam Eiffert, Peter Garraghan, Nicholas Race, Shishir Nagaraja and Awais Rashid.</td>
+  </tr>
+  <tr>
+    <td class="tg-fckf">6:00 PM</td>
+    <td class="tg-fckf">4:00 AM</td>
+    <td class="tg-fckf">9:00 AM</td>
+    <td class="tg-fckf">10:00 AM</td>
+    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Best Paper and Closing</span></td>
+  </tr>
+</tbody>
+</table>
 
 ## Scope
 The 2nd Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2021) invites academia, industry,
