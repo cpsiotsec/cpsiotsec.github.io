@@ -52,15 +52,19 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 .tg .tg-4fhe{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:bottom}
 .tg .tg-fckf{background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-x2bc{background-color:#444444;border-color:#000000;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0hty">Time (Seol)</th>
-    <th class="tg-0hty">Time (NY)</th>
-    <th class="tg-0hty">Time (London)</th>
-    <th class="tg-0hty">Time (Brussel)</th>
-    <th class="tg-0hty">Topic</th>
+    <th class="tg-x2bc" colspan="4">Time  </th>
+    <th class="tg-x2bc" rowspan="2">Topic</th>
+  </tr>
+  <tr>
+    <th class="tg-x2bc">&nbsp;&nbsp;&nbsp;Seoul&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-x2bc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-x2bc">&nbsp;&nbsp;London&nbsp;&nbsp;</th>
+    <th class="tg-x2bc">&nbsp;Brussels&nbsp;</th>
   </tr>
 </thead>
 <tbody>
@@ -76,7 +80,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-fckf">5:15 PM</td>
     <td class="tg-fckf">10:15 PM</td>
     <td class="tg-fckf">11:15 PM</td>
-    <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay </span></td>
+    <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay Chhillar</span><br><span style="font-weight:bold; font-style: italic;">Talk: Digital Transformation and Emerging ICS/OT Cyber Attacks  - Imminent Threats to Our Society</span></td>
   </tr>
   <tr>
     <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">MORNING SESSION #1</span><br><span style="font-weight:bold">Chair: TBD</span></td>
@@ -107,7 +111,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-fckf">7:30 PM</td>
     <td class="tg-fckf">12:30 AM</td>
     <td class="tg-fckf">1:30 AM</td>
-    <td class="tg-y698"><span style="font-weight:bold">Keynote #2</span><br><span style="font-weight:bold">Raymond</span></td>
+    <td class="tg-y698"><span style="font-weight:bold">Keynote #2</span><br><span style="font-weight:bold">Raymond Choo</span><br><span style="font-weight:bold; font-style: italic;">Talk: Internet of Things (IoT) Security and Forensics: Challenges and Opportunities </span></td>
   </tr>
   <tr>
     <td class="tg-uqo3" colspan="5"><span style="font-weight:bold">MORNING SESSION #2</span><br><span style="font-weight:bold">Chair: TBD</span></td>
