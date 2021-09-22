@@ -38,7 +38,8 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 ## Program
 
-**_Note: The workshop will be held in KST (Korean Time)._**
+**_Note: The workshop will be VIRTUAL and held in KST (Korean Time)._**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
