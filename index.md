@@ -24,6 +24,11 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 #### Announcements
 
+* <span style="color:red">**<u>NEW (Sep. 23)</u>**</span> **WORKSHOP REGISTRATION IS ACTIVE.**
+<br>
+ **_--> At least one presenter per accepted paper, poster or demo must register for the conference (or the full conference) as an author._**
+ <br>
+ **_--> At least one presenter per accepted workshop paper must register for the workshop as an author._**
 * <span style="color:red">**<u>NEW (Sep. 19)</u>**</span> **WORKSHOP PROGRAM AVAILABLE.**
 * ~~**ACCEPTANCE/REJECTION NOTIFICATIONS WILL BE GIVEN ON AUGUST 20th.**~~
 <!-- * <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE** -->
@@ -84,7 +89,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay Chhillar</span><br><span style="font-weight:bold; font-style: italic;">Talk: Digital Transformation and Emerging ICS/OT Cyber Attacks  - Imminent Threats to Our Society</span></td>
   </tr>
   <tr>
-    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">MORNING SESSION #1</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">MORNING SESSION #1</span><br><span style="font-weight:bold">Chair: Sibin Mohan, University of Illinois at Urbana-Champaign</span></td>
   </tr>
   <tr>
     <td class="tg-fckf">8:15 AM</td>
@@ -115,7 +120,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-y698"><span style="font-weight:bold">Keynote #2</span><br><span style="font-weight:bold">Raymond Choo</span><br><span style="font-weight:bold; font-style: italic;">Talk: Internet of Things (IoT) Security and Forensics: Challenges and Opportunities </span></td>
   </tr>
   <tr>
-    <td class="tg-uqo3" colspan="5"><span style="font-weight:bold">MORNING SESSION #2</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+    <td class="tg-uqo3" colspan="5"><span style="font-weight:bold">MORNING SESSION #2</span><br><span style="font-weight:bold">Chair: Alvaro Cardenas, University of California Santa Cruz</span></td>
   </tr>
   <tr>
     <td class="tg-fckf">10:30 AM</td>
@@ -142,7 +147,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">LONG BREAK</span></td>
   </tr>
   <tr>
-    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">EVENING SESSION</span><br><span style="font-weight:bold">Chair: TBD</span></td>
+    <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">EVENING SESSION</span><br><span style="font-weight:bold">Chair: Charalambos Konstantinou, KAUST</span></td>
   </tr>
   <tr>
     <td class="tg-fckf">5:00 PM</td>
