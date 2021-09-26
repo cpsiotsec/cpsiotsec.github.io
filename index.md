@@ -288,13 +288,13 @@ Authors are not required to upload CCS reviews; verification of CCS submission s
 * Gang Tan, Pennsylvania State University, USA
 * Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security, Germany
 * Nektarios Georgios Tsoutsos, University of Delaware, USA
-* Claire Vishik, Intel, USA
+<!-- * Claire Vishik, Intel, USA -->
 * Avishai Wool, Tel Aviv University, Israel
 * Min Yang, Fudan Fudan University
 * Stefano Zanero, Politecnico di Milano, Italy China
 * Yuqing Zhang, University of CAS
 * Jianying Zhou, Singapore University of Technology and Design, Singapore
-* Saman Zonouz, Rutgers University, USA
+<!-- * Saman Zonouz, Rutgers University, USA -->
 
 
 
