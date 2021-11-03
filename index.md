@@ -86,7 +86,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
     <td class="tg-fckf">5:15 PM</td>
     <td class="tg-fckf">10:15 PM</td>
     <td class="tg-fckf">11:15 PM</td>
-    <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay Chhillar</span><br><span style="font-weight:bold; font-style: italic;">Talk: Digital Transformation and Emerging ICS/OT Cyber Attacks  - Imminent Threats to Our Society</span></td>
+    <td class="tg-y698"><span style="font-weight:bold">Keynote #1</span><br><span style="font-weight:bold">Speaker: Sanjay Chhillar & Dale Geach</span><br><span style="font-weight:bold; font-style: italic;">Talk: Digital Transformation and Emerging ICS/OT Cyber Attacks  - Imminent Threats to Our Society</span></td>
   </tr>
   <tr>
     <td class="tg-yj5y" colspan="5"><span style="font-weight:bold">MORNING SESSION #1</span><br><span style="font-weight:bold">Chair: Sibin Mohan, University of Illinois at Urbana-Champaign</span></td>
