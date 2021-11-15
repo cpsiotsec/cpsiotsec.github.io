@@ -24,12 +24,14 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 #### Announcements
 
-* <span style="color:red">**<u>NEW (Sep. 23)</u>**</span> **WORKSHOP REGISTRATION IS ACTIVE.**
+* <span style="color:#800000">**Shared Reality: Detecting Stealthy Attacks Against Autonomous Vehicles" by Raul Quinonez, Sleiman Safaoui,Tyler Summers, Bhavani Thuraisinghamand Alvaro A. Cardenas won the best paper award. Congratulations, authors!**</span>
+
+* ~~<span style="color:red">**<u>NEW (Sep. 23)</u>**</span>~~ **~~WORKSHOP REGISTRATION IS ACTIVE.~~**
 <br>
- **_--> At least one presenter per accepted paper, poster or demo must register for the conference (or the full conference) as an author._**
+ **_--> ~~At least one presenter per accepted paper, poster or demo must register for the conference (or the full conference) as an author.~~_**
  <br>
- **_--> At least one presenter per accepted workshop paper must register for the workshop as an author._**
-* <span style="color:red">**<u>NEW (Sep. 19)</u>**</span> **WORKSHOP PROGRAM AVAILABLE.**
+ **_--> ~~At least one presenter per accepted workshop paper must register for the workshop as an author.~~_**
+* ~~<span style="color:red">**<u>NEW (Sep. 19)</u>**</span>~~ **~~WORKSHOP PROGRAM AVAILABLE.~~**
 * ~~**ACCEPTANCE/REJECTION NOTIFICATIONS WILL BE GIVEN ON AUGUST 20th.**~~
 <!-- * <span style="color:red">**<u>NEW</u>**</span> **SECOND SUBMISSION DEADLINE** -->
 * **~~SECOND SUBMISSION DEADLINE~~**
